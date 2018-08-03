@@ -13,58 +13,60 @@
 </head>
 <body>
 
-	<section class="topo-bar">
-		<div class="container">
-			<div class="items-corner">
-				<div class="logo">LOGO</div>
+	<section class="topo-bar justify-center">
+		<div class="container justify-center">
+			<div class="items-corner space-between">
+				<div class="logo">
+					<a href=""><img src="assets/img/logo.png" height="52"></a>
+				</div>
 				<nav class="menu">
 					<ul>
-						<li><a href="">Link 1</a></li>
-						<li><a href="">Link 1</a></li>
-						<li><a href="">Link 1</a></li>
-						<li><a href="">Link 1</a></li>
-						<li><a href="">Link 1</a></li>
+						<li><a href="">Home</a></li>
+						<li><a href="">About</a></li>
+						<li><a href="">Services</a></li>
+						<li><a href="">Contato</a></li>
+						<li class="active"><a href="">Link 1</a></li>
 					</ul>
 				</nav>
 			</div>			
 		</div>
 	</section>
 
-	<section class="slideshow">
+	<section id="slideshow" class="slideshow">
 		<div class="slideshow-area">
-			<div class="slide">
+			<div class="slide" style="background-image: url(assets/img/#);">
 				<div class="headline">
-					<div class="headline-items">
-						<div class="title1">1</div>
-						<div class="description1">1</div>
-						<input type="button" value="link"/>
+					<div class="headline-items column">
+						<div class="title1">Title</div>
+						<div class="description1">Description</div>						
+						<a href="">linl</a>
 					</div>
 				</div>
 			</div>
-			<div class="slide">
+				<div class="slide" style="background-image: url(assets/img/#);">
 				<div class="headline">
-					<div class="headline-items">
-						<div class="title1">1</div>
-						<div class="description1">1</div>
-						<input type="button" value="link"/>
+					<div class="headline-items column">
+						<div class="title1">Title</div>
+						<div class="description1">Description</div>
+						<a href="">linl</a>
 					</div>
 				</div>
 			</div>
-			<div class="slide">
+			<div class="slide" style="background-image: url(assets/img/#);">
 				<div class="headline">
-					<div class="headline-items">
-						<div class="title1">1</div>
-						<div class="description1">1</div>
-						<input type="button" value="link"/>
+					<div class="headline-items column">
+						<div class="title1">Title</div>
+						<div class="description1">Description</div>
+						<a href="">linl</a>
 					</div>
 				</div>
 			</div>
-			<div class="slide">
+			<div class="slide" style="background-image: url(assets/img/#);">
 				<div class="headline">
-					<div class="headline-items">
-						<div class="title1">1</div>
-						<div class="description1">1</div>
-						<input type="button" value="link"/>
+					<div class="headline-items column">
+						<div class="title1">Title</div>
+						<div class="description1">Description</div>
+						<a href="">linl</a>
 					</div>
 				</div>
 			</div>
