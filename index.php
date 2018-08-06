@@ -37,7 +37,7 @@
 			<div class="slide" style="background-image: url(assets/img/#);">
 				<div class="headline">
 					<div class="headline-items column">
-						<div class="title1">Title</div>
+						<div class="title1">Title1</div>
 						<div class="description1">Description</div>						
 						<a href="">linl</a>
 					</div>
@@ -46,7 +46,7 @@
 				<div class="slide" style="background-image: url(assets/img/#);">
 				<div class="headline">
 					<div class="headline-items column">
-						<div class="title1">Title</div>
+						<div class="title1">Title2</div>
 						<div class="description1">Description</div>
 						<a href="">linl</a>
 					</div>
@@ -55,7 +55,7 @@
 			<div class="slide" style="background-image: url(assets/img/#);">
 				<div class="headline">
 					<div class="headline-items column">
-						<div class="title1">Title</div>
+						<div class="title1">Title3</div>
 						<div class="description1">Description</div>
 						<a href="">linl</a>
 					</div>
@@ -64,7 +64,7 @@
 			<div class="slide" style="background-image: url(assets/img/#);">
 				<div class="headline">
 					<div class="headline-items column">
-						<div class="title1">Title</div>
+						<div class="title1">Title4</div>
 						<div class="description1">Description</div>
 						<a href="">linl</a>
 					</div>
