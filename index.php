@@ -73,20 +73,20 @@
 		</div>
 	</section>
 
-	<section class="corpo">
+	<section class="corpo justify-center">
 		<div class="container">
-			<div class="items-corner">
+			<div class="items-corner space-between flex-wrap">
 				<div class="square1">
-					<div class="title2">html</div>
-					<div class="link-bar">confira</div>
+					<div class="title2">html / css </div>
+					<div class="link-bar"><a href=""> confira</a></div>
 				</div>
 				<div class="square2">
-					<div class="title2">html</div>
-					<div class="link-bar">confira</div>
+					<div class="title2">javaScript</div>
+					<div class="link-bar"><a href=""> confira</a></div>
 				</div>
 				<div class="square3">
-					<div class="title2">html</div>
-					<div class="link-bar">confira</div>
+					<div class="title2">PHP</div>
+					<div class="link-bar"><a href=""> confira</a></div>
 				</div>
 			</div>	
 		</div>
