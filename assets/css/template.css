@@ -103,6 +103,13 @@ body
 .corpo
 {
 	display: flex;
+	padding-bottom: 70px;
+	padding-top: 70px;
+}
+
+.designed
+{
+	display: flex;
 }
 
 .headline
@@ -202,6 +209,64 @@ body
 	padding: 5px 15px;
 }
 
+.menu-bottom ul,
+.menu-bottom li
+{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.menu-bottom ul
+{
+	display: flex;
+}
+
+.menu-bottom ul li a
+{
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #0071bc;
+	padding: 5px 15px;
+}
+
+.rights
+{
+	padding-right: 20px;
+}
+
+.rodape
+{
+	display: flex;
+	background-color: #073549;
+}
+
+.rodape-info
+{
+	margin-top: 20px;
+}
+
+.rodape-area1, .rodape-area2, .rodape-area3
+{
+	width: 410px;
+}
+
+.rodape-area2
+{
+	text-align: center;
+}
+
+.rodape-area3
+{
+	text-align: right;
+}
+
+.rodape .items-corner
+{
+	margin-top: 25px;
+	width: 100%;
+}
+
 .slideshow
 {	
 	height: 400px;
@@ -226,7 +291,6 @@ body
 
 .square1, .square2, .square3
 {
-	margin-top: 70px;
 	border: 1px solid #1a1a1a;
 	padding-top: 22px;
 	padding-left: 30px;
@@ -259,6 +323,14 @@ body
 	text-transform: uppercase;
 }
 
+.title3
+{
+	font-family:'montserratregular'; 
+	font-size: 14px;
+	color: #0071bc;
+	text-transform: uppercase;
+}
+
 .topo-bar
 {
 	display: flex;
@@ -266,7 +338,7 @@ body
 	padding: 15px 0;
 }
 
-/*@media only screen and (max-width: 1440px)
+@media only screen and (max-width: 1440px)
 {
 
 	.container
@@ -278,4 +350,4 @@ body
 	{
 		width: 350px;
 	}
-}*/
+}
