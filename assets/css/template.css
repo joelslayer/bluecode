@@ -65,6 +65,17 @@
 }
 
 /*CLASSES AUXILIARES*/
+
+.align-start
+{
+	align-items: flex-start;
+}
+
+.align-center
+{
+	align-items: center;
+}
+
 .justify-center
 {
 	justify-content: center;
@@ -83,6 +94,11 @@
 .flex-wrap
 {
 	flex-wrap: wrap;
+}
+
+.justify-end
+{
+	justify-content: flex-end;
 }
 
 
@@ -110,6 +126,14 @@ body
 .designed
 {
 	display: flex;
+}
+
+.description3
+{
+	color: #FFF;
+	width: 400px;
+	text-align: justify;
+	margin-bottom: 20px;
 }
 
 .headline
@@ -226,8 +250,10 @@ body
 {
 	text-decoration: none;
 	text-transform: uppercase;
-	color: #0071bc;
+	color: #FFF;
 	padding: 5px 15px;
+	font-family:'montserratregular'; 
+	font-size: 14px;
 }
 
 .rights
@@ -241,30 +267,40 @@ body
 	background-color: #073549;
 }
 
-.rodape-info
+.rodape-area1
 {
-	margin-top: 20px;
-}
-
-.rodape-area1, .rodape-area2, .rodape-area3
-{
-	width: 410px;
+	display: flex;
+	width: 100%;
 }
 
 .rodape-area2
 {
-	text-align: center;
-}
-
-.rodape-area3
-{
-	text-align: right;
+	display: flex;
+	width: 100%;
 }
 
 .rodape .items-corner
 {
 	margin-top: 25px;
 	width: 100%;
+}
+
+.rodape .items-corner .rodape-area2:nth-child(2)
+{
+	height: 150px;
+	margin: 0;
+	padding: 0;
+}
+
+.rodape .items-corner .rodape-area2:nth-child(3)
+{
+	height: 150px;
+	padding: 0 3px;
+}
+
+..menu-bottom
+{
+	background-color: red;
 }
 
 .slideshow
@@ -348,6 +384,24 @@ body
 
 	.square1, .square2, .square3
 	{
-		width: 350px;
+		width: 340px;
 	}
+
+.square1:hover
+{
+	transform: scale(1.2);
+	transition: all 1s;
+}
+
+.square2:hover
+{
+	transform: scale(1.2);
+	transition: all 1s;
+}
+
+.square3:hover
+{
+	transform: scale(1.2);
+	transition: all 1s;
+}
 }

@@ -94,29 +94,34 @@
 
 	<footer class="rodape justify-center">
 		<div class="container column">
-			<div class="items-corner space-between">
-				<div class="rodape-area1 column">
+			<div class="items-corner space-between align-center">
+				<div class="rodape-area1 space-between justify-center">
 					<div class="title3">BLUE CODE</div>
-					<div class="rodape-info">
-						<div class="description3">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam.</div>
-						<div class="description3">TEL: (xx) X -XXXX-XXXX</div>
-						<div class="description3">EMAIL: NOME@DOMINIO.COM.BR</div>
-					</div>
-				</div>
-				<div class="rodape-area2 column">
 					<div class="title3">LOCALIZAÇÃO</div>
-					<img src="assets/img/mapa.png" height="90" />
-				</div>
-				<div class="rodape-area3 column">
 					<div class="title3">REDES SOCIAIS</div>
-					<div class="rodape-info">
-						<img src="assets/img/Facebook.png" height="36" />
-						<img src="assets/img/Instagram.png" height="36" />
-						<img src="assets/img/Whatsapp.png" height="36" />
-						<img src="assets/img/Mail.png" height="36" />
-					</div>
-				</div>
-			</div>	
+				</div>					
+			</div>
+
+			<div class="items-corner space-between">
+				<div class="rodape-area2 column align-center">
+					<div class="description3">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
+					tincidunt ut laoreet dolore magna aliquam.</div>
+					<div class="description3">TEL: (xx) X -XXXX-XXXX</div>
+					<div class="description3">EMAIL: NOME@DOMINIO.COM.BR</div>
+				</div>	
+
+				<div class="rodape-area2 justify-center">
+					<a href=""><img src="assets/img/mapa.png" height="90" /></a>
+				</div>	
+
+				<div class="rodape-area2 justify-end">
+					<a href=""><img src="assets/img/Facebook.png" height="36" /></a>
+					<a href=""><img src="assets/img/Instagram.png" height="36" /></a>
+					<a href=""><img src="assets/img/Whatsapp.png" height="36" /></a>
+					<a href=""><img src="assets/img/Mail.png" height="36" /></a>
+				</div>	
+			</div>
+			
 			<div class="items-corner space-between flex-wrap">
 				<div class="menu-bottom">
 					<ul>
